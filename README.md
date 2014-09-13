@@ -13,3 +13,5 @@ c:\Users\TOSH\Documents\GitHub\OmegaT_3_1_6>c:\Users\TOSH\Documents\GitHub\Omega
 cd c:\Users\TOSH\Documents\GitHub\OmegaT_3_1_6
 set JAVA_HOME=c:\Program Files\Java\jdk1.8.0_20\jre
 
+
+http://www.omegat.org/ru/howtos/new_filter.html
